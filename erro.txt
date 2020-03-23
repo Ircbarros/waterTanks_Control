@@ -1,0 +1,1 @@
+n an assignment A(:) = B, the number of elements in A and B must be the same
